@@ -12,7 +12,7 @@ Android, Electron, and the web. These apps are called "Native Progressive Web Ap
 the next evolution beyond Hybrid apps.
 
 ## Resources
-* https://capacitor.ionicframework.com/docs/
+* [Official Documentation](https://capacitor.ionicframework.com/docs/)
 
 ## Installation
 ``` js
@@ -20,7 +20,7 @@ npm install --save @capacitor/core @capacitor/cli
 ```
 
 ## Github
-[https://github.com/ionic-team/capacitor](https://github.com/ionic-team/capacitor)
+[Capacitor](https://github.com/ionic-team/capacitor)
 
 ### Platform
 web,mobile
