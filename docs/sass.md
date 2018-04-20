@@ -10,7 +10,7 @@ Framework
 Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
 ## Resources
-https://sass-lang.com/
+[SASS](https://sass-lang.com/)
 
 ``` sass
     @media screen {
@@ -24,7 +24,7 @@ https://sass-lang.com/
 ```
 
 ## Github
-https://github.com/sass/sass
+[SASS}(https://github.com/sass/sass)
 
 ### Platform
 web

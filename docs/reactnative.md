@@ -10,7 +10,7 @@ Framework
 React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components.
 
 ## Resources
-https://facebook.github.io/react-native/
+[React Native](https://facebook.github.io/react-native/)
 
 ``` js
 import React, { Component } from 'react';
@@ -34,7 +34,7 @@ class WhyReactNativeIsSoGreat extends Component {
 ```
 
 ## Github
-https://github.com/facebook/react-native
+[React Native](https://github.com/facebook/react-native)
 
 ### Platform
 mobile
