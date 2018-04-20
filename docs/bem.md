@@ -50,7 +50,6 @@ Flags on blocks or elements. Use them to change appearance, behavior or state. M
 
 .block--mod .block__elem { }
 
-****
 ## Resources
 [BEM](http://getbem.com/)
 
