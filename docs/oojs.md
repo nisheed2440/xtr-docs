@@ -14,7 +14,7 @@ OOjs (short for "Object-oriented JavaScript") is a JavaScript library for workin
 
 
 ## Github
-* <https://github.com/wikimedia/oojs>
+* https://github.com/wikimedia/oojs
 
 ### Platform
 Web,Mobile

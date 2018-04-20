@@ -10,7 +10,7 @@ Tool
 Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 
 ## Resources
-https://developers.google.com/web/tools/lighthouse/
+[Lighthouse Docs](https://developers.google.com/web/tools/lighthouse/)
 
 ## Using Lighthouse in Chrome DevTools
 
@@ -28,7 +28,7 @@ _Lighthouse requires Node 6 or later._
 
 **Installation**:
 
-```sh
+```shell
 npm install -g lighthouse
 # or use yarn:
 # yarn global add lighthouse
@@ -39,7 +39,7 @@ npm install -g lighthouse
 By default, Lighthouse writes the report to an HTML file. You can control the output format by passing flags.
 
 ## Github
-https://github.com/GoogleChrome/lighthouse
+* https://github.com/GoogleChrome/lighthouse
 
 ### Platform
 Web,Mobile

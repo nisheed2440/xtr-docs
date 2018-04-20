@@ -24,7 +24,7 @@ class Todo {
 
 
 ## Github
-* <https://github.com/mobxjs/mobx>
+* https://github.com/mobxjs/mobx
 
 ### Platform
 Web,Mobile

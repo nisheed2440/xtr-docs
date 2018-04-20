@@ -32,7 +32,7 @@ app.listen(3000, () => console.log('Example app listening on port 3000!'));
 [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
 ## Github
-* <https://github.com/expressjs/express>
+* https://github.com/expressjs/express
 
 ### Platform
 web

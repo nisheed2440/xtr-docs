@@ -13,7 +13,7 @@ Rollup is a module bundler for JavaScript which compiles small pieces of code in
 [RollupJS](https://rollupjs.org/guide/en)
 
 ## Github
-* <https://github.com/rollup/rollup>
+* https://github.com/rollup/rollup
 
 ### Platform
 

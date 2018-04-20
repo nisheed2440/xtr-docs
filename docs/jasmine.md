@@ -28,7 +28,7 @@ describe("A suite is just a function", function() {
 
 
 ## Github
-* <https://github.com/jasmine/jasmine>
+* https://github.com/jasmine/jasmine
 
 ### Platform
 web

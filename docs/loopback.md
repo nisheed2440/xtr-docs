@@ -26,7 +26,7 @@ $ npm install -g loopback-cli
 ```
 
 ## Github
-* <https://github.com/strongloop/loopback>
+* https://github.com/strongloop/loopback
 
 ### Platform
 web,mobile

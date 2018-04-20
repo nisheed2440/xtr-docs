@@ -36,7 +36,7 @@ app.on('ready', createWindow)
 
 
 ## Github
-* <https://github.com/electron>
+* https://github.com/electron
 
 ### Platform
 web, desktop

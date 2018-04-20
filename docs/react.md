@@ -28,7 +28,7 @@ ReactDOM.render(<App/>,document.getElementById('root'))
 
 
 ## Github
-* <https://github.com/facebook/react/>
+* https://github.com/facebook/react/
 
 ### Platform
 Web,Mobile

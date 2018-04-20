@@ -11,10 +11,10 @@ jQuery is a lightweight, "write less, do more", JavaScript library.The purpose o
 
 ## Resources
 [Offcial Site](https://jquery.com/)
-[NPM] (https://www.npmjs.com/package/jquery)
+[NPM](https://www.npmjs.com/package/jquery)
 
 ## Github
-* <https://github.com/jquery/jquery>
+* https://github.com/jquery/jquery
 
 ### Platform
 web

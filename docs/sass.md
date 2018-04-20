@@ -25,7 +25,7 @@ Sass is the most mature, stable, and powerful professional grade CSS extension l
 
 
 ## Github
-* <https://github.com/sass/sass>
+* https://github.com/sass/sass
 
 ### Platform
 web

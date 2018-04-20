@@ -33,7 +33,7 @@ _.partition([1, 2, 3, 4], n => n % 2);
 [Wikipedia](https://en.wikipedia.org/wiki/Lodash)
 
 ## Github
-* <https://github.com/lodash/lodash>
+* https://github.com/lodash/lodash
 
 ### Platform
 web,mobile

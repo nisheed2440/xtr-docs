@@ -12,5 +12,5 @@ In a way, this isn't anything new. Event buses or your typical click events are 
 
 
 ## Resources
-[Docs](Reactive Programming.doc)
+[Docs](http://reactivex.io/rxjs/)
 

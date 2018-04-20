@@ -32,7 +32,7 @@ module.exports = {
 
 
 ## Github
-* <https://github.com/webpack/webpack/>
+* https://github.com/webpack/webpack/
 
 ### Platform
 Web,Mobile

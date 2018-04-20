@@ -33,10 +33,12 @@ bower install underscore
 
 ### Example
 
+```js
+/*
 each_.each(list, iteratee, [context]) Alias: forEach 
 Iterates over a list of elements, yielding each in turn to an iteratee function. The iteratee is bound to the context object, if one is passed. Each invocation of iteratee is called with three arguments: (element, index, list). If list is a JavaScript object, iteratee's arguments will be (value, key, list). Returns the list for chaining.
+*/
 
-```js
 _.each([1, 2, 3], alert);
 //alerts each number in turn...
 

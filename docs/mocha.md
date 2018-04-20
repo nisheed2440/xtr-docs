@@ -29,7 +29,7 @@ describe('Foo', function(){
 
 
 ## Github
-* <https://github.com/mochajs/mocha>
+* https://github.com/mochajs/mocha
 
 ### Platform
 web

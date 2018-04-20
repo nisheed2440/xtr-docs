@@ -13,7 +13,7 @@ TypeScript is a language for application-scale JavaScript. TypeScript adds optio
 [Typescript](https://www.typescriptlang.org/)
 
 ## Github
-* <https://github.com/Microsoft/TypeScript>
+* https://github.com/Microsoft/TypeScript
 
 ### Platform
 

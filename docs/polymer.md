@@ -42,7 +42,7 @@ polymer serve
 
 
 ## Github
-* <https://github.com/Polymer/polymer>
+* https://github.com/Polymer/polymer
 
 ### Platform
 web,mobile

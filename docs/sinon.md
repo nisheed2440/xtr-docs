@@ -27,7 +27,7 @@ Sinon is a Standalone test spies, stubs and mocks for JavaScript. It works with 
 
 
 ## Github
-* <https://github.com/sinonjs/sinon>
+* https://github.com/sinonjs/sinon
 
 ### Platform
 web

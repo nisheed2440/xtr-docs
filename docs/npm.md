@@ -17,11 +17,11 @@ npm install <package-name>
 npm start
 ```
 ## Resources
-https://www.npmjs.com/
+[NPM](https://www.npmjs.com/)
 
 
 ## Github
-* <https://github.com/npm/npm>
+* https://github.com/npm/npm
 
 ### Platform
 Web,Mobile

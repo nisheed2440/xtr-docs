@@ -13,4 +13,4 @@ Firebase Cloud Messaging. Formerly known as Google Cloud Messaging (GCM), Fireba
 [Official Site](https://firebase.google.com/)
 
 ### Platform
-web | mobile
+web, mobile

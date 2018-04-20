@@ -12,7 +12,7 @@ NonVisual Desktop Access (NVDA) is a free and open source screen reader for the 
 ## Resources
 [Download- Free](https://www.nvaccess.org/download/)
 
-[Ref:](https://www.nvaccess.org/files/nvda/documentation/userGuide.html)
+[Ref](https://www.nvaccess.org/files/nvda/documentation/userGuide.html)
 
 ### Platform
 web

@@ -21,7 +21,7 @@ Enzyme.configure({ adapter: new Adapter() });
 [Enzyme](http://airbnb.io/projects/enzyme/)
 
 ## Github
-* <https://github.com/airbnb/enzyme>
+* https://github.com/airbnb/enzyme
 
 ### Platform
 Web,Mobile

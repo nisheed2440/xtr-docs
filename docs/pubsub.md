@@ -14,8 +14,8 @@ PubSubJS is a topic-based publish/subscribe library written in JavaScript. PubSu
 
 
 ## Github
-* <https://github.com/georapbox/PubSub.git>
-* <https://github.com/mroderick/PubSubJS>
+* https://github.com/georapbox/PubSub.git
+* https://github.com/mroderick/PubSubJS
 
 ### Platform
 web,mobile

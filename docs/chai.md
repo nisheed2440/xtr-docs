@@ -36,7 +36,7 @@ assert.lengthOf(beverages.tea, 3, 'beverages has 3 types of tea');
 
 
 ## Github
-* <https://github.com/chaijs/chai>
+* https://github.com/chaijs/chai
 
 ### Platform
 web

@@ -31,7 +31,7 @@ graphql(schema, '{ hello }', root).then((response) => {
 
 
 ## Github
-* <https://github.com/graphql/graphql-js>
+* https://github.com/graphql/graphql-js
 
 ### Platform
 web

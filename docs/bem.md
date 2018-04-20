@@ -69,7 +69,7 @@ Flags on blocks or elements. Use them to change appearance, behavior or state. M
 [BEM](http://getbem.com/)
 
 ## Github
-* <https://github.com/getbem/getbem.com/>
+* https://github.com/getbem/getbem.com/
 
 ### Platform
 web,mobile

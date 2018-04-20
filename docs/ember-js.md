@@ -23,7 +23,7 @@ Some of these features that you'll learn about in the guides are:
 
 
 ## Github
-* <https://github.com/emberjs/ember.js/>
+* https://github.com/emberjs/ember.js/
 
 ### Platform
 web

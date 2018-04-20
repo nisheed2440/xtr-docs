@@ -24,7 +24,7 @@ The Dojo Toolkit is organized in several parts:
 
 
 ## Github
-* <https://github.com/dojo/dojo>
+* https://github.com/dojo/dojo
 
 ### Platform
 web,mobile

@@ -20,7 +20,7 @@ npm install --save @capacitor/core @capacitor/cli
 ```
 
 ## Github
-* <https://github.com/ionic-team/capacitor>
+* https://github.com/ionic-team/capacitor
 
 ### Platform
 web,mobile

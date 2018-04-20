@@ -14,7 +14,7 @@ A service worker is a script that your browser runs in the background, separate 
 [Service Workers Cookbook](https://serviceworke.rs/)
 
 ## Github
-* <https://github.com/w3c/ServiceWorker>
+* https://github.com/w3c/ServiceWorker
 
 ### Platform
 

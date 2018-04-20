@@ -36,7 +36,7 @@ test('adds 1 + 2 to equal 3', () => {
 [Jest](https://facebook.github.io/jest/)
 
 ## Github
-* <https://facebook.github.io/jest/>
+* https://facebook.github.io/jest/
 
 ### Platform
 Web,Mobile

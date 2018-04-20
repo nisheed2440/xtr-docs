@@ -14,7 +14,7 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.j
 
 
 ## Github
-* <https://github.com/nodejs>
+* https://github.com/nodejs
 
 ### Platform
 web

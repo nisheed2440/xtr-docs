@@ -11,10 +11,10 @@ PostCSS is a software development tool that uses JavaScript-based plugins to aut
 
 ## Resources
 [Offcial Site](http://postcss.org/)
-[NPM] (https://www.npmjs.com/package/postcss)
+[NPM](https://www.npmjs.com/package/postcss)
 
 ## Github
-* <https://github.com/postcss>
+* https://github.com/postcss
 
 ### Platform
 web
