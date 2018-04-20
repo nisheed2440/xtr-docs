@@ -14,6 +14,7 @@ the next evolution beyond Hybrid apps.
 ## Resources
 * https://capacitor.ionicframework.com/docs/
 
+## Installation
 ``` js
 npm install --save @capacitor/core @capacitor/cli
 ```
