@@ -1,27 +1,18 @@
 # MongoDb
 
 ## Quadrant
-<grow|incubate|ubiquitous|de-emphasize>
+grow
 
 ## Type
 tools
 
 ## Description
-<description>
+MongoDB is a free and open-source cross-platform document-oriented database program. 
+Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemas.
 
 ## Resources
-[Google](https://www.google.co.in)
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Github
-[Google](https://www.google.co.in)
+* https://docs.mongodb.com/
+* https://en.wikipedia.org/wiki/MongoDB
 
 ### Platform
-<web|mobile|ar/vr>
+web,mobile

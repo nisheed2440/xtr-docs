@@ -20,14 +20,15 @@ and then generates standards-based Web Components with these features baked in.
 
 
 ## Resources
-[Official Website](https://stenciljs.com/)
+* https://stenciljs.com/
 
+## Installation
 ``` js
 npm install @stencil/core@latest
 ```
 
 ## Github
-[Stencil](https://github.com/ionic-team/stencil)
+[https://github.com/ionic-team/stencil](https://github.com/ionic-team/stencil)
 
 ### Platform
 web,mobile

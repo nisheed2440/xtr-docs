@@ -14,7 +14,7 @@ capabilities of modern browsers and the freedom to design the right visual inter
 data.
 
 ## Resources
-[D3](https://www.npmjs.com/package/d3)
+* https://www.npmjs.com/package/d3
 
 ## Installation
 ``` js
@@ -22,7 +22,7 @@ data.
 ```
 
 ## Github
-[D3](https://github.com/d3/d3)
+[https://github.com/d3/d3](https://github.com/d3/d3)
 
 
 ### Platform

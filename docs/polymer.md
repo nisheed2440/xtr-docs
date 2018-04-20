@@ -13,9 +13,10 @@ minimal overhead and payload, by leveraging powerful web platform features like 
 Service Worker and HTTP/2.
 
 ## Resources
-* [Official Website](https://www.polymer-project.org/)
-* [Installation] (https://www.polymer-project.org/2.0/start/install-2-0)
+* https://www.polymer-project.org/
+* https://www.polymer-project.org/2.0/start/install-2-0
 
+## Installation
 1. Install the Polymer CLI.
 ``` js
 npm install -g polymer-cli
@@ -40,7 +41,7 @@ polymer serve
 ```
 
 ## Github
-[Polymer](https://github.com/Polymer/polymer)
+[https://github.com/Polymer/polymer](https://github.com/Polymer/polymer)
 
 ### Platform
 web,mobile

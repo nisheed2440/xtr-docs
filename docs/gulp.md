@@ -1,27 +1,24 @@
 # Gulp
 
 ## Quadrant
-<grow|incubate|ubiquitous|de-emphasize>
+ubiquitous
 
 ## Type
 tools
 
 ## Description
-<description>
+Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow.
 
 ## Resources
-[Google](https://www.google.co.in)
+* https://gulpjs.com/
 
+## Installation
 ``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
+npm install gulp-cli -g
 ```
 
 ## Github
-[Google](https://www.google.co.in)
+[https://github.com/gulpjs/gulp/blob/v3.9.1/docs/getting-started.md](https://github.com/gulpjs/gulp/blob/v3.9.1/docs/getting-started.md)
 
 ### Platform
-<web|mobile|ar/vr>
+web,mobile
