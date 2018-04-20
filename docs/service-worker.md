@@ -1,5 +1,4 @@
-# <name>
-Service Workers
+# Service Workers
 
 ## Quadrant
 Grow

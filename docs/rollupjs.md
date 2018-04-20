@@ -1,5 +1,4 @@
-# <name>
-Rollup JS
+# Rollup JS
 
 ## Quadrant
 Grow

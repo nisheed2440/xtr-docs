@@ -1,5 +1,4 @@
-# <name>
-Typescript
+# Typescript
 
 ## Quadrant
 Grow

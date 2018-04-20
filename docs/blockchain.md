@@ -1,5 +1,4 @@
-# <name>
-Blockchain
+# Blockchain
 
 ## Quadrant
 Grow
@@ -12,9 +11,9 @@ A blockchain, originally block chain, is a continuously growing list of records,
 
 
 ## Resources
-* (https://github.com/Xel/Blockchain-stuff)
-* (https://medium.com/pennblockchain/a-living-list-of-blockchain-resources-5ece5e8cf06)
-* (http://www.dummies.com/personal-finance/10-free-blockchain-resources/)
+[Blockchain Stuff](https://github.com/Xel/Blockchain-stuff)
+[Living List of Blockchain Resources](https://medium.com/pennblockchain/a-living-list-of-blockchain-resources-5ece5e8cf06)
+[10 Free Blockchain Resources](http://www.dummies.com/personal-finance/10-free-blockchain-resources/)
 
 ## Github
 

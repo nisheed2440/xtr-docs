@@ -1,5 +1,4 @@
-# <name>
-Babel
+# Babel
 
 ## Quadrant
 Ubiquitous
