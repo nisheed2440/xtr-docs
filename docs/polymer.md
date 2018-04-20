@@ -12,10 +12,6 @@ Polymer App Toolbox helps you build and deliver cutting-edge Progressive Web App
 minimal overhead and payload, by leveraging powerful web platform features like Web Components, 
 Service Worker and HTTP/2.
 
-## Resources
-* [Official Documentation](https://www.polymer-project.org/)
-* [Installation Guide](https://www.polymer-project.org/2.0/start/install-2-0)
-
 ## Installation
 1. Install the Polymer CLI.
 ``` js
@@ -40,8 +36,13 @@ polymer init
 polymer serve
 ```
 
+## Resources
+* [Official Documentation](https://www.polymer-project.org/)
+* [Installation Guide](https://www.polymer-project.org/2.0/start/install-2-0)
+
+
 ## Github
-[Polymer](https://github.com/Polymer/polymer)
+* <https://github.com/Polymer/polymer>
 
 ### Platform
 web,mobile

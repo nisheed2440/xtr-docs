@@ -19,9 +19,6 @@ Tool
   serializable values to simplify testing and to analyze how state changes over
   time.
 
-## Resources
-https://facebook.github.io/jest/
-
 ```bash
 npm install --save-dev jest
 ```
@@ -32,10 +29,14 @@ const sum = require('./sum');
 test('adds 1 + 2 to equal 3', () => {
   expect(sum(1, 2)).toBe(3);
 });
+
 ```
 
+## Resources
+[Jest](https://facebook.github.io/jest/)
+
 ## Github
-https://facebook.github.io/jest/
+* <https://facebook.github.io/jest/>
 
 ### Platform
 Web,Mobile

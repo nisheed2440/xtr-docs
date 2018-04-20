@@ -43,16 +43,12 @@ Parts of a block and have no standalone meaning. Any element is semantically tie
 **Modifier**
 
 Flags on blocks or elements. Use them to change appearance, behavior or state. Modifier names may consist of Latin letters, digits, dashes and underscores. CSS class is formed as block’s or element’s name plus two dashes: .block--mod or .block__elem--mod and .block--color-black with .block--color-red. Spaces in complicated modifiers are replaced by dash.
-
+```
 <div class="block block--mod">...</div>
-	<div class="block block--size-big
-		block--shadow-yes">...</div>
+<div class="block block--size-big block--shadow-yes">...</div>
 
 .block--mod .block__elem { }
-
-## Resources
-[BEM](http://getbem.com/)
-
+```
 ```
 <form class="form form--theme-xmas form--simple">
   <input class="form__input" type="text" />
@@ -69,8 +65,11 @@ Flags on blocks or elements. Use them to change appearance, behavior or state. M
 .form__submit--disabled { }
 ```
 
+## Resources
+[BEM](http://getbem.com/)
+
 ## Github
-[BEM](https://github.com/getbem/getbem.com/)
+* <https://github.com/getbem/getbem.com/>
 
 ### Platform
 web,mobile

@@ -15,9 +15,6 @@ A blockchain, originally block chain, is a continuously growing list of records,
 [Living List of Blockchain Resources](https://medium.com/pennblockchain/a-living-list-of-blockchain-resources-5ece5e8cf06)
 [10 Free Blockchain Resources](http://www.dummies.com/personal-finance/10-free-blockchain-resources/)
 
-## Github
-
-
 ### Platform
 
 Web, Mobile

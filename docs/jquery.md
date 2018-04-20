@@ -1,7 +1,7 @@
 # jQuery
 
 ## Quadrant
-grow
+ubiquitous
 
 ## Type
 concepts
@@ -14,7 +14,7 @@ jQuery is a lightweight, "write less, do more", JavaScript library.The purpose o
 [NPM] (https://www.npmjs.com/package/jquery)
 
 ## Github
-[jQuery](https://github.com/jquery/jquery)
+* <https://github.com/jquery/jquery>
 
 ### Platform
 web

@@ -14,7 +14,7 @@ Grunt is a JavaScript task runner, a tool used to automatically perform frequent
 [NPM] (https://www.npmjs.com/package/grunt)
 
 ## Github
-[grunt](https://github.com/gruntjs/grunt)
+* <https://github.com/gruntjs/grunt>
 
 ### Platform
 web

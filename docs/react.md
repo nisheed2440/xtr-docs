@@ -1,16 +1,13 @@
 # React
 
 ## Quadrant
-grow
+ubiquitous
 
 ## Type
-Library
+frameworks
 
 ## Description
 A JavaScript library for building user interfaces
-
-## Resources
-https://reactjs.org/
 
 ``` js
 import React from 'react';
@@ -26,9 +23,12 @@ export default class App extends React.Component {
 
 ReactDOM.render(<App/>,document.getElementById('root'))
 ```
+## Resources
+[React](https://reactjs.org/)
+
 
 ## Github
-https://github.com/facebook/react/
+* <https://github.com/facebook/react/>
 
 ### Platform
 Web,Mobile

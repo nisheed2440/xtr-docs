@@ -1,7 +1,7 @@
 # PostCSS
 
 ## Quadrant
-Ubiquitous
+ubiquitous
 
 ## Type
 library
@@ -14,7 +14,7 @@ PostCSS is a software development tool that uses JavaScript-based plugins to aut
 [NPM] (https://www.npmjs.com/package/postcss)
 
 ## Github
-[grunt](https://github.com/postcss)
+* <https://github.com/postcss>
 
 ### Platform
 web

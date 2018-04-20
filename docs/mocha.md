@@ -11,10 +11,6 @@ Mocha is a feature-rich JavaScript test framework running on [Node.js](https://n
 
 Mocha is a JavaScript test framework for Node.js programs, featuring browser support, asynchronous testing, test coverage reports, and use of any assertion library.
 
-## Resources
-[Mocha](https://mochajs.org/)
-[Codeburst](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e?gi=66f9674d139f)
-
 ``` js
 var assert = require("assert")
 describe('Foo', function(){
@@ -27,9 +23,13 @@ describe('Foo', function(){
 })
 
 ```
+## Resources
+[Mocha](https://mochajs.org/)
+[Codeburst](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e?gi=66f9674d139f)
+
 
 ## Github
-[MochaJS](https://github.com/mochajs/mocha)
+* <https://github.com/mochajs/mocha>
 
 ### Platform
 web

@@ -15,7 +15,7 @@ It makes available all the syntactical sugar that was added to JavaScript with t
 [Babel.io](https://babeljs.io/)
 
 ## Github
-* (https://github.com/babel/babel)
+* <https://github.com/babel/babel>
 
 ### Platform
 

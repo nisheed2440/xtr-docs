@@ -1,16 +1,13 @@
 # Electron
 
 ## Quadrant
-ubiquitous
+scale
 
 ## Type
 Framework
 
 ## Description
 If you can build a website, you can build a desktop app. Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
-
-## Resources
-[Electronjs](https://electronjs.org/)
 
 ``` js
 import {app, BrowserWindow} from 'electron';
@@ -34,8 +31,12 @@ app.on('ready', createWindow)
 
 ```
 
+## Resources
+[Electronjs](https://electronjs.org/)
+
+
 ## Github
-[Electronjs](https://github.com/electron)
+* <https://github.com/electron>
 
 ### Platform
-web
+web, desktop

@@ -9,9 +9,6 @@ Library
 ## Description
 MobX (previously mobservable) is a state management library for JavaScript frontend application. 
 
-## Resources
-https://mobx.js.org/
-
 ```javascript
 import { observable } from "mobx"
 
@@ -22,8 +19,12 @@ class Todo {
 }
 ```
 
+## Resources
+[MobX](https://mobx.js.org/)
+
+
 ## Github
-https://github.com/mobxjs/mobx
+* <https://github.com/mobxjs/mobx>
 
 ### Platform
 Web,Mobile

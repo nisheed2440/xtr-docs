@@ -20,7 +20,7 @@ Mustache is used mainly for mobile and web applications.
 [CDNJS](https://cdnjs.com/libraries/mustache.js/)
 
 ## Github
-[Github](https://github.com/Mustache/Mustache)
+* <https://github.com/Mustache/Mustache>
 
 ### Platform
 web

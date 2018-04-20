@@ -13,4 +13,4 @@ Amazon Web Services (AWS) is a comprehensive, evolving cloud computing platform 
 [AWS](https://aws.amazon.com/)
 
 ### Platform
-web | mobile
+web, mobile

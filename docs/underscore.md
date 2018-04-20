@@ -1,10 +1,10 @@
 # Underscore
 
 ## Quadrant
-incubate, ubiquitous
+ubiquitous
 
 ## Type
-library
+tools
 
 ## What is Underscore .?
 

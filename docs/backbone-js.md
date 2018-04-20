@@ -35,7 +35,7 @@ The following are a list of features of BackboneJS −
 
 
 ## Github
-[Github](https://github.com/jashkenas/backbone)
+* <https://github.com/jashkenas/backbone>
 
 ### Platform
 web

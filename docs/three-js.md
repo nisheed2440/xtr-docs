@@ -20,7 +20,7 @@ High-level libraries such as Three.js or GLGE, SceneJS, PhiloGL or a number of o
 
 
 ## Github
-[Github](https://github.com/mrdoob/three.js/)
+* <https://github.com/mrdoob/three.js/>
 
 ### Platform
 web

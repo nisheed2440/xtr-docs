@@ -28,7 +28,7 @@ npm install @stencil/core@latest
 ```
 
 ## Github
-[Stencil](https://github.com/ionic-team/stencil)
+* <https://github.com/ionic-team/stencil>
 
 ### Platform
 web,mobile

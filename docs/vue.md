@@ -1,7 +1,7 @@
-# 
+# Vue JS
 
 ## Quadrant
-ubiquitous
+incubate
 
 ## Type
 frameworks

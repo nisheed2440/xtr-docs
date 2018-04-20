@@ -11,9 +11,6 @@ Jasmine is a behavior-driven development framework for testing JavaScript code. 
 
 Jasmine is an open source testing framework for JavaScript. It aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax.
 
-## Resources
-[Jasmine](https://jasmine.github.io/)
-
 ``` js
 describe("A suite is just a function", function() {
   var a;
@@ -26,8 +23,12 @@ describe("A suite is just a function", function() {
 });
 ```
 
+## Resources
+[Jasmine](https://jasmine.github.io/)
+
+
 ## Github
-[Jasmine](https://github.com/jasmine/jasmine)
+* <https://github.com/jasmine/jasmine>
 
 ### Platform
 web

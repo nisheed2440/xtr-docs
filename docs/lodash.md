@@ -4,7 +4,7 @@
 ubiquitous
 
 ## Type
-frameworks
+tool
 
 ## Description
 Lodash is a JavaScript utility library delivering modularity, performance & extras that helps programmers write more concise and easier to maintain JavaScript.
@@ -21,10 +21,6 @@ It can be broken down into several main areas:
 
 It has had multiple releases, so all functions may not be available in all implementations. For example, _.chunk has only been available since version 3.0.0.
 
-## Resources
-[Lodash](https://lodash.com/)
-[Wikipedia](https://en.wikipedia.org/wiki/Lodash)
-
 ``` js
 _.defaults({ 'a': 1 }, { 'a': 3, 'b': 2 });
 // → { 'a': 1, 'b': 2 }
@@ -32,8 +28,12 @@ _.partition([1, 2, 3, 4], n => n % 2);
 // → [[1, 3], [2, 4]]
 ```
 
+## Resources
+[Lodash](https://lodash.com/)
+[Wikipedia](https://en.wikipedia.org/wiki/Lodash)
+
 ## Github
-[Lodash](https://github.com/lodash/lodash)
+* <https://github.com/lodash/lodash>
 
 ### Platform
 web,mobile

@@ -19,9 +19,6 @@ Chai is a BDD / TDD assertion library for node and the browser that can be delig
 **Tools**
 * The Online Test Suite is a live run of Chai’s test suite. Use it to ensure browser compatibility.
 
-## Resources
-[Chai](https://chaijs.org)
-
 ``` js
 var assert = require('chai').assert
   , foo = 'bar'
@@ -34,8 +31,12 @@ assert.lengthOf(foo, 3, 'foo`s value has a length of 3');
 assert.lengthOf(beverages.tea, 3, 'beverages has 3 types of tea');
 ```
 
+## Resources
+[Chai](https://chaijs.org)
+
+
 ## Github
-[ChaiJS](https://github.com/chaijs/chai)
+* <https://github.com/chaijs/chai>
 
 ### Platform
 web

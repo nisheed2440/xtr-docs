@@ -1,16 +1,13 @@
 # GraphQL
 
 ## Quadrant
-ubiquitous
+scale
 
 ## Type
 Framework
 
 ## Description
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
-
-## Resources
-[GraphQL](https://graphql.org)
 
 ``` js
 import { graphql, buildSchema } from 'graphql';
@@ -29,8 +26,12 @@ graphql(schema, '{ hello }', root).then((response) => {
 
 ```
 
+## Resources
+[GraphQL](https://graphql.org)
+
+
 ## Github
-[GraphQL](https://github.com/graphql/graphql-js)
+* <https://github.com/graphql/graphql-js>
 
 ### Platform
 web
