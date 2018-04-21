@@ -12,12 +12,9 @@ Sightly is a new templating engine and language implementation. Sightly endeavou
 ## Resources
 [Sightly](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 
-``` js
-
-```
 
 ## Github
-[GitHub](https://github.com/adobe)
+* https://github.com/adobe
 
 ### Platform
 web, mobile
