@@ -13,10 +13,6 @@ Angular 2 conceptual model is an improvement over AngularJS in two main ways:
 
 1. it improves many of its existing parts (f.i. like modules which are now standard ES6 modules)
 2. it condenses the number of concepts within the framework into a more cohesive unit with less redundant components (*f.i. like unifying services and factories, and providing a much better way to create components/directives)
-
-## Resources
-[Angular](https://angular.io/)
-
 ``` js
 
 npm install angular
@@ -25,8 +21,11 @@ bower install angular
 
 ```
 
+## Resources
+[Angular](https://angular.io/)
+
 ## Github
-[GitHub](https://github.com/angular)
+* https://github.com/angular
 
 ### Platform
 web, mobile
