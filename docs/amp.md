@@ -1,7 +1,7 @@
 # Accelerated Mobile Pages
 
 ## Quadrant
-ubiquitous
+grow
 
 ## Type
 concepts
@@ -12,12 +12,9 @@ The AMP Project is an open-source initiative aiming to make the web better for a
 ## Resources
 [AMP Project](https://www.ampproject.org/)
 
-``` js
-
-```
 
 ## Github
-[GitHub](https://github.com/ampproject)
+* https://github.com/ampproject
 
 ### Platform
 web, mobile
