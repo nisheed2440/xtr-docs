@@ -1,7 +1,7 @@
 # git
 
 ## Quadrant
-grow
+ubiquitous
 
 ## Type
 tools
@@ -14,12 +14,9 @@ Git is easy to learn and has a tiny footprint with lightning fast performance. I
 ## Resources
 [Git](https://git-scm.com/)
 
-``` js
-
-```
 
 ## Github
-[GitHub](https://github.com/)
+* https://github.com/
 
 ### Platform
 web, mobile, ar/vr
