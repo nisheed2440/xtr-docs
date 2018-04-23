@@ -22,7 +22,7 @@ Meteor is a full-stack JavaScript platform for developing modern web and mobile 
 [Guide](https://docs.meteor.com/)
 
 ## Github
-* https://github.com/olton/Metro-UI-CSS
+* https://github.com/meteor/meteor
 
 ### Platform
 web
