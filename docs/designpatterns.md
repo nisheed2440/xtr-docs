@@ -4,7 +4,7 @@
 ubiquitous
 
 ## Type
-Concept
+Concepts
 
 ## Description
 * Creational Patterns
