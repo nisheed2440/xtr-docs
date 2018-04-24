@@ -17,4 +17,4 @@ NativeScript is how you build cross-platform, native iOS and Android apps withou
 * https://github.com/NativeScript/NativeScript
 
 ### Platform
-web|mobile
+web,mobile
