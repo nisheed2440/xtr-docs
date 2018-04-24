@@ -1,7 +1,7 @@
 # Angular
 
 ## Quadrant
-ubiquitous
+scale
 
 ## Type
 frameworks
