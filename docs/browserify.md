@@ -1,7 +1,7 @@
 # Browserify
 
 ## Quadrant
-grow
+de-emphasize
 
 ## Type
 tools
