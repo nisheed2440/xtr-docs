@@ -1,7 +1,7 @@
 # Ionic
 
 ## Quadrant
-ubiquitous
+incubate
 
 ## Type
 frameworks
